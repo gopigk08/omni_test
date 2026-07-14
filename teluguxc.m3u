@@ -1,0 +1,137 @@
+#EXTM3U url-tvg="http://solapuristreams.iptv18.space/xmltv.php?username=app&password=developer"
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeeteluguhd.in" tvg-name="IN-TG | Zee Telugu FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Telugu-HD.png" group-title="INR | Telugu",IN-TG | Zee Telugu FHD
+http://solapuristreams.iptv18.space/live/app/developer/20680
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starmaahd.in" tvg-name="IN-TG | Star Maa FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png" group-title="INR | Telugu",IN-TG | Star Maa FHD
+http://solapuristreams.iptv18.space/live/app/developer/17450
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="maagold.in" tvg-name="IN-TG | Star Maa Gold" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Gold.png" group-title="INR | Telugu",IN-TG | Star Maa Gold
+http://solapuristreams.iptv18.space/live/app/developer/20701
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starmaamovieshd.in" tvg-name="IN-TG | Star Maa Movies FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png" group-title="INR | Telugu",IN-TG | Star Maa Movies FHD
+http://solapuristreams.iptv18.space/live/app/developer/20700
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MaaMusic.in" tvg-name="IN-TG | Star Maa Music" tvg-logo="https://mym2e.fun/images/pJALEGYQDgwbUdRmcM-QRYikR-k2jDWt-xcbL2zgSTAqjv56J5E-3muEdNejl7UxOz1-EW9eje3ulQLLyzw6SOTQxR3tvQ6_M7JYDdTDGTM.png" group-title="INR | Telugu",IN-TG | Star Maa Music
+http://solapuristreams.iptv18.space/live/app/developer/760921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="zeecinemaluhd.in" tvg-name="IN-TG | Zee Cinemalu FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png" group-title="INR | Telugu",IN-TG | Zee Cinemalu FHD
+http://solapuristreams.iptv18.space/live/app/developer/166317
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geminitvhd.in" tvg-name="IN-TG | Gemini TV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini.png" group-title="INR | Telugu",IN-TG | Gemini TV FHD
+http://solapuristreams.iptv18.space/live/app/developer/20708
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geminilife.in" tvg-name="IN-TG | Gemini Life" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Life.png" group-title="INR | Telugu",IN-TG | Gemini Life
+http://solapuristreams.iptv18.space/live/app/developer/20714
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geminimovieshd.in" tvg-name="IN-TG | Gemini Movies FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Movies-HD.png" group-title="INR | Telugu",IN-TG | Gemini Movies FHD
+http://solapuristreams.iptv18.space/live/app/developer/20711
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geminicomedy.in" tvg-name="IN-TG | Gemini Comedy" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Comedy.png" group-title="INR | Telugu",IN-TG | Gemini Comedy
+http://solapuristreams.iptv18.space/live/app/developer/20713
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="geminimusic.in" tvg-name="IN-TG | GEMINI MUSIC FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gemini-Music.png" group-title="INR | Telugu",IN-TG | GEMINI MUSIC FHD
+http://solapuristreams.iptv18.space/live/app/developer/20710
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvabhiruchi.in" tvg-name="IN-TG | ETV Abhiruchi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png" group-title="INR | Telugu",IN-TG | ETV Abhiruchi
+http://solapuristreams.iptv18.space/live/app/developer/20721
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvandhrapradesh.in" tvg-name="IN-TG | ETV Andhra Pradesh" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Andhra-Pradesh.png" group-title="INR | Telugu",IN-TG | ETV Andhra Pradesh
+http://solapuristreams.iptv18.space/live/app/developer/20720
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvhd.in" tvg-name="IN-TG | ETV FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-HD.png" group-title="INR | Telugu",IN-TG | ETV FHD
+http://solapuristreams.iptv18.space/live/app/developer/20715
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvlife.in" tvg-name="IN-TG | ETV Life" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Life.png" group-title="INR | Telugu",IN-TG | ETV Life
+http://solapuristreams.iptv18.space/live/app/developer/20718
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvplus.in" tvg-name="IN-TG | ETV Plus" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Plus.png" group-title="INR | Telugu",IN-TG | ETV Plus
+http://solapuristreams.iptv18.space/live/app/developer/20717
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvcinema.in" tvg-name="IN-TG | ETV Cinema" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Cinema.png" group-title="INR | Telugu",IN-TG | ETV Cinema
+http://solapuristreams.iptv18.space/live/app/developer/20719
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="etvtelengana.in" tvg-name="IN-TG | ETV Telangana" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Telangana.png" group-title="INR | Telugu",IN-TG | ETV Telangana
+http://solapuristreams.iptv18.space/live/app/developer/20716
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Raj.TV.in" tvg-name="IN-TG | Raj TV" tvg-logo="https://jacreation.com/tamil/raj.png" group-title="INR | Telugu",IN-TG | Raj TV
+http://solapuristreams.iptv18.space/live/app/developer/865957
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rajmusixtelugu.in" tvg-name="IN-TG | Raj Musix" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-Musix.png" group-title="INR | Telugu",IN-TG | Raj Musix
+http://solapuristreams.iptv18.space/live/app/developer/20696
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="StudioYuva.in@SD" tvg-name="IN-TG | STUDIO YUVA" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Studio-Yuva.png" group-title="INR | Telugu",IN-TG | STUDIO YUVA
+http://solapuristreams.iptv18.space/live/app/developer/20688
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vanithatv.in" tvg-name="IN-TG | Vanitha" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vanitha.png" group-title="INR | Telugu",IN-TG | Vanitha
+http://solapuristreams.iptv18.space/live/app/developer/20682
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonypixhd.in" tvg-name="IN-TG | Sony Pix FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png" group-title="INR | Telugu",IN-TG | Sony Pix FHD
+http://solapuristreams.iptv18.space/live/app/developer/663377
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sonic.Nickelodeon.in" tvg-name="IN-TG | Sonic Nick" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-YAY-3.png" group-title="INR | Telugu",IN-TG | Sonic Nick
+http://solapuristreams.iptv18.space/live/app/developer/663391
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="3385" tvg-name="IN-TG | Gubbare" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png" group-title="INR | Telugu",IN-TG | Gubbare
+http://solapuristreams.iptv18.space/live/app/developer/663393
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Super.Hungama.in" tvg-name="IN-TG | Super Hungama" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Super-Hungama.png" group-title="INR | Telugu",IN-TG | Super Hungama
+http://solapuristreams.iptv18.space/live/app/developer/663387
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cartoonnetworkhd.in" tvg-name="IN-TG | Cartoon Network" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png" group-title="INR | Telugu",IN-TG | Cartoon Network
+http://solapuristreams.iptv18.space/live/app/developer/20727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Discovery.Telugu.in" tvg-name="IN-TG | Discovery Kids" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Kids.png" group-title="INR | Telugu",IN-TG | Discovery Kids
+http://solapuristreams.iptv18.space/live/app/developer/161861
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="disneyjunior.in" tvg-name="IN-TG | Disney Junior" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Disney-Junior.png" group-title="INR | Telugu",IN-TG | Disney Junior
+http://solapuristreams.iptv18.space/live/app/developer/663394
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="pogo.in" tvg-name="IN-TG | Pogo Kids" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Pogo.png" group-title="INR | Telugu",IN-TG | Pogo Kids
+http://solapuristreams.iptv18.space/live/app/developer/663388
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyyay.in" tvg-name="IN-TG | Sony Yay" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-YAY-3.png" group-title="INR | Telugu",IN-TG | Sony Yay
+http://solapuristreams.iptv18.space/live/app/developer/20690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonicnickelodeon.in" tvg-name="IN-TG | Sonic" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sonic-1.png" group-title="INR | Telugu",IN-TG | Sonic
+http://solapuristreams.iptv18.space/live/app/developer/161912
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nick.in" tvg-name="IN-TG | Nick Kids" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nick-2.png" group-title="INR | Telugu",IN-TG | Nick Kids
+http://solapuristreams.iptv18.space/live/app/developer/161898
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonybbcearthhd.in" tvg-name="IN-TG | Sony BBC Earth FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png" group-title="INR | Telugu",IN-TG | Sony BBC Earth FHD
+http://solapuristreams.iptv18.space/live/app/developer/20729
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nationalgeographicchannelhd.in" tvg-name="IN-TG | National Geo FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="INR | Telugu",IN-TG | National Geo FHD
+http://solapuristreams.iptv18.space/live/app/developer/403908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="nationalgeographicchannel.in" tvg-name="IN-TG | NatGeo FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png" group-title="INR | Telugu",IN-TG | NatGeo FHD
+http://solapuristreams.iptv18.space/live/app/developer/663382
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowildhd.in" tvg-name="IN-TG | Nat Geo Wild FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png" group-title="INR | Telugu",IN-TG | Nat Geo Wild FHD
+http://solapuristreams.iptv18.space/live/app/developer/161890
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="natgeowildhd.in" tvg-name="IN-TG | NatGeo Wild FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png" group-title="INR | Telugu",IN-TG | NatGeo Wild FHD
+http://solapuristreams.iptv18.space/live/app/developer/663384
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="discoveryhd.in" tvg-name="IN-TG | Discovery FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png" group-title="INR | Telugu",IN-TG | Discovery FHD
+http://solapuristreams.iptv18.space/live/app/developer/161855
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="historytv18hd.in" tvg-name="IN-TG | History TV18 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png" group-title="INR | Telugu",IN-TG | History TV18 FHD
+http://solapuristreams.iptv18.space/live/app/developer/20706
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Telugu.Naaptol.in" tvg-name="IN-TG | Telugu Naaptol" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png" group-title="INR | Telugu",IN-TG | Telugu Naaptol
+http://solapuristreams.iptv18.space/live/app/developer/663380
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="abnandhrajyothy.in" tvg-name="IN-TG | ABN Andhra Jyothi" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png" group-title="INR | Telugu",IN-TG | ABN Andhra Jyothi
+http://solapuristreams.iptv18.space/live/app/developer/20731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="aradanatv.in" tvg-name="IN-TG | ARADHANA TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png" group-title="INR | Telugu",IN-TG | ARADHANA TV
+http://solapuristreams.iptv18.space/live/app/developer/20730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddyadagiri.in" tvg-name="IN-TG | DD Yadagiri" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Yadagiri.png" group-title="INR | Telugu",IN-TG | DD Yadagiri
+http://solapuristreams.iptv18.space/live/app/developer/663402
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="andflixhd.in" tvg-name="IN-TG | &Flix FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Flix.png" group-title="INR | Telugu",IN-TG | &Flix FHD
+http://solapuristreams.iptv18.space/live/app/developer/161827
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cvrenglish.in" tvg-name="IN-TG | CVR ENGLISH NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CVR-English.png" group-title="INR | Telugu",IN-TG | CVR ENGLISH NEWS
+http://solapuristreams.iptv18.space/live/app/developer/20726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cvrnews.in" tvg-name="IN-TG | CVR NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CVR-News.png" group-title="INR | Telugu",IN-TG | CVR NEWS
+http://solapuristreams.iptv18.space/live/app/developer/20725
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="cvrspiritualom.in" tvg-name="IN-TG | CVR OM SPIRITUAL" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/CVR-Spirtual.png" group-title="INR | Telugu",IN-TG | CVR OM SPIRITUAL
+http://solapuristreams.iptv18.space/live/app/developer/20724
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ddsaptagiri.in" tvg-name="IN-TG | DD Saptagiri" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Saptagiri.png" group-title="INR | Telugu",IN-TG | DD Saptagiri
+http://solapuristreams.iptv18.space/live/app/developer/20723
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="hmtv.in" tvg-name="IN-TG | Hm TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/HM-TV.png" group-title="INR | Telugu",IN-TG | Hm TV
+http://solapuristreams.iptv18.space/live/app/developer/20705
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="790" tvg-name="IN-TG | I NEWS" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/iNews.png" group-title="INR | Telugu",IN-TG | I NEWS
+http://solapuristreams.iptv18.space/live/app/developer/20704
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="kushitv.in" tvg-name="IN-TG | Kushi TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Kushi.png" group-title="INR | Telugu",IN-TG | Kushi TV
+http://solapuristreams.iptv18.space/live/app/developer/20702
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts774" tvg-name="IN-TG | 4TV News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png" group-title="INR | Telugu",IN-TG | 4TV News
+http://solapuristreams.iptv18.space/live/app/developer/663401
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Mahaa.News.in" tvg-name="IN-TG | Mahaa News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Maha-News.png" group-title="INR | Telugu",IN-TG | Mahaa News
+http://solapuristreams.iptv18.space/live/app/developer/20699
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntvnews.in" tvg-name="IN-TG | NTV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png" group-title="INR | Telugu",IN-TG | NTV
+http://solapuristreams.iptv18.space/live/app/developer/20697
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ntvnews.in" tvg-name="IN-TG | NTV Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png" group-title="INR | Telugu",IN-TG | NTV Telugu
+http://solapuristreams.iptv18.space/live/app/developer/663396
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Sakshi.tv.in" tvg-name="IN-TG | Sakshi TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sakshi-TV.png" group-title="INR | Telugu",IN-TG | Sakshi TV
+http://solapuristreams.iptv18.space/live/app/developer/20692
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="rajnewstelugu.in" tvg-name="IN-TG | Raj News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png" group-title="INR | Telugu",IN-TG | Raj News
+http://solapuristreams.iptv18.space/live/app/developer/20695
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="svbc.in" tvg-name="IN-TG | SRI VENKATESHWAR BHAKTI" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sri-Venka.png" group-title="INR | Telugu",IN-TG | SRI VENKATESHWAR BHAKTI
+http://solapuristreams.iptv18.space/live/app/developer/20689
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tnews.in" tvg-name="IN-TG | T News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png" group-title="INR | Telugu",IN-TG | T News
+http://solapuristreams.iptv18.space/live/app/developer/20687
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv5.in" tvg-name="IN-TG | TV5 News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png" group-title="INR | Telugu",IN-TG | TV5 News
+http://solapuristreams.iptv18.space/live/app/developer/20686
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="v6telugu.in" tvg-name="IN-TG | V6 News" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png" group-title="INR | Telugu",IN-TG | V6 News
+http://solapuristreams.iptv18.space/live/app/developer/20683
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="tv9.in" tvg-name="IN-TG | TV9 Telugu" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV9-Telegu.png" group-title="INR | Telugu",IN-TG | TV9 Telugu
+http://solapuristreams.iptv18.space/live/app/developer/20684
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="vissatv.in" tvg-name="IN-TG | Vissa TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vissa-TV.png" group-title="INR | Telugu",IN-TG | Vissa TV
+http://solapuristreams.iptv18.space/live/app/developer/20681
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Telugu.Naaptol.in" tvg-name="IN-TG | TBO" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TBO.png" group-title="INR | Telugu",IN-TG | TBO
+http://solapuristreams.iptv18.space/live/app/developer/20703
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts1073" tvg-name="IN-TG | TBO CLASSIC" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TBO-Classic.png" group-title="INR | Telugu",IN-TG | TBO CLASSIC
+http://solapuristreams.iptv18.space/live/app/developer/20685
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="10tv.in" tvg-name="IN-TG | 10 TV" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png" group-title="INR | Telugu",IN-TG | 10 TV
+http://solapuristreams.iptv18.space/live/app/developer/663400
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ts994" tvg-name="IN-TM | Tata Play Toons+" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons-copy.png" group-title="INR | Telugu",IN-TM | Tata Play Toons+
+http://solapuristreams.iptv18.space/live/app/developer/663365
